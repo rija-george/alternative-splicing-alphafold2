@@ -1,0 +1,6 @@
+requests
+tqdm
+biopython>=1.80
+numpy
+# PyMOL (open-source): conda install -c conda-forge pymol-open-source
+# AlphaFold2 via ColabFold / LocalColabFold: https://github.com/sokrypton/ColabFold
