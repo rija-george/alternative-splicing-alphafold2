@@ -5,7 +5,8 @@
 **Author:** Rija George  
 **Supervisor:** Prof. Dr. Volkhard Helms · **Reviewers:** Prof. Dr. Volkhard Helms, Prof. Dr. Olga Kalinina
 
-📄 **[Read the full thesis (PDF)](thesis/Rija_George_MSc_Thesis_2025.pdf)**
+
+📄 **Full thesis:** [PDF (Google Drive)]([PASTE-DRIVE-LINK-HERE](https://drive.google.com/file/d/1bIHjd5sa9Mb0kbFbmyhkKrL_Qa4AnszC/view?usp=share_link)) · archived on [Zenodo](https://doi.org/10.5281/zenodo.24052643)
 
 ---
 
