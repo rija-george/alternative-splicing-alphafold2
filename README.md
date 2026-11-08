@@ -6,7 +6,7 @@
 **Supervisor:** Prof. Dr. Volkhard Helms · **Reviewers:** Prof. Dr. Volkhard Helms, Prof. Dr. Olga Kalinina
 
 
-📄 **Full thesis:** [PDF (Google Drive)]((https://drive.google.com/file/d/1bIHjd5sa9Mb0kbFbmyhkKrL_Qa4AnszC/view?usp=share_link)) · archived on [Zenodo](https://doi.org/10.5281/zenodo.24052643)
+📄 **Full thesis:** [PDF (Google Drive)](https://drive.google.com/file/d/1bIHjd5sa9Mb0kbFbmyhkKrL_Qa4AnszC/view?usp=share_link) · archived on [Zenodo](https://doi.org/10.5281/zenodo.24052643)
 
 ---
 
